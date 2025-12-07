@@ -6,7 +6,7 @@ Welcome to **DNSChaos Online**, your source for **daily-updated malicious IP lis
 - Curated **malicious IP addresses** updated daily
 - Supports network administrators, security teams, and developers in **blocking and reporting harmful IPs**
 - Contributes to global threat intelligence platforms:
-  - [AbuseIPDB](abuseipdb.com/user/141848?__cf_chl_tk=tpjMSLDb9_t.sPdMQHTR2kIRnpuib1wxWv3.nWIpCKY-1765141598-1.0.1.1-tCz7uRqDujiE2fO2.MuTr.md_iBKjWsAT4Np7QxAKtY)
+  - [AbuseIPDB](https://abuseipdb.com/user/141848)
   - [VirusTotal](https://www.virustotal.com/gui/user/kbourdakos)
 
 ## Usage
