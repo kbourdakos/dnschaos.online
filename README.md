@@ -3,7 +3,7 @@
 Welcome to **DNSChaos Online**, your source for **daily-updated malicious IP lists** used for cybersecurity research, threat intelligence, and network defense.
 
 ## What’s in this repo
-- Curated **malicious IP addresses** updated daily
+- Reported **malicious IP addresses** updated daily
 - Supports network administrators, security teams, and developers in **blocking and reporting harmful IPs**
 - Contributes to global threat intelligence platforms:
   - [AbuseIPDB](https://abuseipdb.com/user/141848)
