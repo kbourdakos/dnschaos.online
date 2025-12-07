@@ -10,7 +10,7 @@ Welcome to **DNSChaos Online**, your source for **daily-updated malicious IP lis
   - [VirusTotal](https://www.virustotal.com/gui/user/kbourdakos)
 
 ## Usage
-- Download the latest list: `bad-ips.txt`
+- Download the latest list: `[DATE].DNSCh_Online`
 - Integrate into firewall rules, IDS/IPS, or threat detection scripts
 - Cite the source when sharing: DNSChaos Online © 2025
 
